@@ -2,7 +2,7 @@ import socket
 import sys
 
 
-# create socket - allows two computer to connect
+# create socket - allows computer to connect
 
 def socket_create():
     try:
